@@ -2,7 +2,7 @@
 
 # <p align="center"><samp> 🤖 Hi, Myself Vipin Singh </samp></p>
 
-<p align="center"><img width=400 height=300 src="jim-halpert-smile.gif" /></p>
+<p align="center"><img width=500 height=300 src="jim-halpert-smile.gif" /></p>
 
 ## <p align="center">About Me</p>
 
