@@ -1,16 +1,29 @@
-### Hi there 👋
+<samp>
 
-<!--
-**vipinnsingh/vipinnsingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# <p align="center"><samp> 🤖 Hi, Myself Vipin Singh </samp></p>
 
-Here are some ideas to get you started:
+<p align="center"><img width=400 height=300 src="assets/jim-halpert-smile.gif" /></p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## <p align="center">About Me</p>
+
+- I'm a Full Stack Blockchain Developer !
+- Focusing on Web3 & Research
+
+## <samp><p align="center">What am I learning?</p></samp>
+
+Web3 | Data Structures | APIs: Rest | Rust | NodeJs | NextJs
+</samp>
+
+<p align="center"><img width=600 height=300 src="assets/xd.gif" /></p>
+
+# <h3 align="center">Reach me here !!!</h3>
+
+</samp>
+<p align="center">
+<a href="https://twitter.com/vipinafterlife">
+  <img align="center" alt="Vipin Singh| Twitter" width="45px" src="assets\twitter.png" />
+</a>
+<a href="https://www.linkedin.com/in/vipin-singh-649a26230/">
+  <img align="center" alt="Vipin Singh| LinkedIn" width="45px" src="assets\linkedin.png" />
+</a>
+</p>
