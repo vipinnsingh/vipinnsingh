@@ -2,7 +2,7 @@
 
 # <p align="center"><samp> 🤖 Hi, Myself Vipin Singh </samp></p>
 
-<p align="center"><img width=400 height=300 src="assets/jim-halpert-smile.gif" /></p>
+<p align="center"><img width=400 height=300 src="jim-halpert-smile.gif" /></p>
 
 ## <p align="center">About Me</p>
 
@@ -21,9 +21,9 @@ Web3 | Data Structures | APIs: Rest | Rust | NodeJs | NextJs
 </samp>
 <p align="center">
 <a href="https://twitter.com/vipinafterlife">
-  <img align="center" alt="Vipin Singh| Twitter" width="45px" src="assets\twitter.png" />
+  <img align="center" alt="Vipin Singh| Twitter" width="45px" src="twitter.png" />
 </a>
 <a href="https://www.linkedin.com/in/vipin-singh-649a26230/">
-  <img align="center" alt="Vipin Singh| LinkedIn" width="45px" src="assets\linkedin.png" />
+  <img align="center" alt="Vipin Singh| LinkedIn" width="45px" src="linkedin.png" />
 </a>
 </p>
