@@ -6,12 +6,12 @@
 
 ## <p align="center">About Me</p>
 
-- I'm a Full Stack Blockchain Developer !
-- Focusing on Web3 & Research
+- I'm a Software Developer !
+- Focusing on Backend & everything relates.
 
 ## <samp><p align="center">What am I learning?</p></samp>
 
-Web3 | Data Structures | APIs: Rest | Rust | NodeJs | NextJs
+Web3 | Data Structures | APIs: Rest | Golang | NodeJs | ReactJS
 </samp>
 
 <p align="center"><img width=600 height=300 src="assets/xd.gif" /></p>
